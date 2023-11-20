@@ -1,4 +1,4 @@
 streamlit
 sympy
 pip
-streamlit-option-menu
+PyPI
