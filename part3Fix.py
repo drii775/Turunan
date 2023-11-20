@@ -1,6 +1,6 @@
 import streamlit as st
 from sympy import symbols, diff, simplify
-#from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu
 
 #navigasi sidebar
 with st.sidebar :
